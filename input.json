@@ -1,0 +1,17 @@
+{
+    "mintparam11": "2",  
+    "mintparam12": "2",  
+    "mintparam13": "3",
+    "oldbalance1": "1",
+    "newbalance1": "8",
+    "mintparam21": "3",  
+    "mintparam22": "3", 
+    "mintparam23": "4",
+    "oldbalance2": "2",
+    "newbalance2": "15",
+    "burnparam31": "1",  
+    "burnparam32": "2",  
+    "burnparam33": "3",
+    "oldbalance3": "10",
+    "newbalance3": "5" 
+}
